@@ -9,11 +9,11 @@
 <a href="https://asimpunmagar.com.np">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/asimmagar20/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/cyberchimpdev">
 <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -33,7 +33,7 @@ Full-Stack Development&nbsp;&nbsp;•&nbsp;&nbsp;AI/ML&nbsp;&nbsp;•&nbsp;&nbsp
 </p>
 
 <p align="center">
-I build web applications and intelligent software using
+I build practical web applications and intelligent software using
 <strong>React, Python, Django, REST APIs and AI technologies.</strong>
 </p>
 
@@ -43,23 +43,26 @@ I build web applications and intelligent software using
 
 <table>
 <tr>
+
 <td width="58%" valign="top">
 
 ### Hi, I'm Asim 👋
 
-I'm a developer from **Kathmandu, Nepal** focused on building practical software products.
+Developer focused on building practical software products and intelligent applications.
 
-My work covers:
+My work includes:
 
 * ⚛️ Full-stack web development
 * 🤖 AI-powered applications
 * 🧠 Machine learning
 * 🔌 REST API development
-* 🎨 Responsive UI
+* 🎨 Responsive UI/UX
 * 🏗️ Backend systems
 * 📊 Data-driven applications
 
-I enjoy taking ideas from **concept → design → development → working product**.
+I enjoy taking ideas from:
+
+**Concept → Design → Development → Working Product**
 
 </td>
 
@@ -85,6 +88,7 @@ I enjoy taking ideas from **concept → design → development → working produ
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -116,7 +120,7 @@ I enjoy taking ideas from **concept → design → development → working produ
 
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Applications-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Applications-111827?style=for-the-badge&logo=brain&logoColor=white"/>
 
 <br><br>
 
@@ -128,12 +132,32 @@ I enjoy taking ideas from **concept → design → development → working produ
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
+
+<br><br>
+
+<img src="./profile/activity.svg" width="98%" />
+
+<br><br>
+
+<img src="./profile/streak.svg" width="98%" />
+
+</div>
+
+---
+
 # 🚀 Selected Projects
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="20%">
 
 ### 🌋
@@ -183,6 +207,7 @@ AI startup platform
 AI learning platform
 
 </td>
+
 </tr>
 </table>
 
@@ -243,7 +268,7 @@ AI-assisted compute optimization around renewable-energy availability.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </p>
@@ -267,7 +292,7 @@ Full-stack hotel management platform with booking and administration workflows.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
 </p>
@@ -291,7 +316,7 @@ AI-powered platform for startup analysis, validation and business insights.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
 </p>
@@ -311,6 +336,7 @@ AI-powered platform for detecting learning gaps and supporting personalized reco
 # 🧩 What I Build
 
 <table align="center">
+
 <tr>
 
 <td align="center" width="25%">
@@ -354,6 +380,7 @@ AI-powered platform for detecting learning gaps and supporting personalized reco
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -363,15 +390,49 @@ AI-powered platform for detecting learning gaps and supporting personalized reco
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center">⚛️<br><strong>React</strong><br><sub>Modern Frontend</sub></td>
+
+<td align="center">
+⚛️
+<br>
+<strong>React</strong>
+<br>
+<sub>Modern Frontend</sub>
+</td>
+
 <td>→</td>
-<td align="center">🐍<br><strong>Django</strong><br><sub>Backend & APIs</sub></td>
+
+<td align="center">
+🐍
+<br>
+<strong>Django</strong>
+<br>
+<sub>Backend & APIs</sub>
+</td>
+
 <td>→</td>
-<td align="center">🤖<br><strong>AI / ML</strong><br><sub>Intelligent Systems</sub></td>
+
+<td align="center">
+🤖
+<br>
+<strong>AI / ML</strong>
+<br>
+<sub>Intelligent Systems</sub>
+</td>
+
 <td>→</td>
-<td align="center">🚀<br><strong>Products</strong><br><sub>Real Problems</sub></td>
+
+<td align="center">
+🚀
+<br>
+<strong>Products</strong>
+<br>
+<sub>Real Problems</sub>
+</td>
+
 </tr>
+
 </table>
 
 </div>
