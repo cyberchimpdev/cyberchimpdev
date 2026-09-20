@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&text=ASIM%20PUN%20MAGAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:0891b2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&text=ASIM%20PUN%20MAGAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:0891b2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI%2FML+Enthusiast;React+%2B+Python+%2B+Django;Building+Practical+Digital+Products" />
 
@@ -9,16 +9,20 @@
 <a href="https://asimpunmagar.com.np">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/asimmagar20/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://github.com/cyberchimpdev">
 <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<h3 align="center">Building software around real problems.</h3>
+
+<p align="center">
+Full-Stack Development • AI/ML • Product Engineering
+</p>
 
 ---
 
@@ -50,7 +54,7 @@ I primarily work with **React, Django, Python, JavaScript, REST APIs, databases,
 
 **React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite**
 
-### Backend
+### Backend & Database
 
 **Python • Django • Django REST Framework • REST APIs • PostgreSQL • MySQL • SQLite • Supabase**
 
@@ -62,16 +66,13 @@ I primarily work with **React, Django, Python, JavaScript, REST APIs, databases,
 
 **Git • GitHub • Docker • VS Code • Linux • API Integration • Database Design**
 
+---
+
+# 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,django,postgres,mysql,sqlite,git,github,docker,vscode,linux" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://github-contribution-stats.vercel.app/api/?username=cyberchimpdev" width="96%"/>
 
 </div>
 
@@ -105,10 +106,6 @@ The system combines environmental signals, terrain information, satellite-change
 
 **Core technologies:** Python • FastAPI • React • AI Agents • SQLite • Geospatial Data • SRTM • OpenStreetMap
 
-<a href="https://github.com/cyberchimpdev/PahiroWatch">
-<img src="https://img.shields.io/badge/View%20PahiroWatch-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
 ## ⚡ HydroCompute Nepal
@@ -131,10 +128,6 @@ The system combines agentic planning with machine-learning models for thermal fo
 * 👤 Human approval checkpoints
 
 **Core technologies:** Python • React • TypeScript • Scikit-learn • AI Agents • Data Processing
-
-<a href="https://github.com/cyberchimpdev/HydroCompute-Nepal">
-<img src="https://img.shields.io/badge/View%20HydroCompute-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 ---
 
@@ -159,10 +152,6 @@ The system includes separate customer and administrator experiences with backend
 * ✨ Animated UI interactions
 
 **Core technologies:** React • Vite • Tailwind CSS • Django • Django REST Framework • MySQL • JWT • Axios • Framer Motion
-
-<a href="https://github.com/cyberchimpdev/SmartyStay">
-<img src="https://img.shields.io/badge/View%20SmartyStay-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 ---
 
@@ -189,10 +178,6 @@ The platform uses AI to analyze business concepts and generate structured insigh
 
 **Core technologies:** React • Tailwind CSS • Django • Django REST Framework • Google Gemini API • JWT • SQLite / PostgreSQL
 
-<a href="https://github.com/cyberchimpdev/Nexora">
-<img src="https://img.shields.io/badge/View%20Nexora-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
 ## 🎓 NexaLearn
@@ -217,10 +202,6 @@ The platform analyzes student answers, identifies weak concepts and mistake patt
 * 🧩 AI-generated practice tests
 
 **Core technologies:** React • Tailwind CSS • Django REST Framework • Python • Gemini API • REST APIs
-
-<a href="https://github.com/cyberchimpdev/NexaLearn">
-<img src="https://img.shields.io/badge/View%20NexaLearn-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 ---
 
@@ -277,20 +258,6 @@ Software engineering changes continuously. I treat every project as an opportuni
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/cyberchimpdev">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberchimpdev&bg_color=0f172a&color=38bdf8&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=Asim%20Pun%20Magar%20-%20Contribution%20Activity" width="98%"/>
-
-</a>
-
-</div>
-
----
-
 # 🤝 Let's Connect
 
 I'm interested in connecting with developers, designers, founders, teams, and people building meaningful technology.
@@ -302,11 +269,11 @@ I'm interested in connecting with developers, designers, founders, teams, and pe
 </a>
 
 <a href="https://www.linkedin.com/in/asimmagar20/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Asim%20Pun%20Magar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/cyberchimpdev">
-<img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-CyberChimp-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -315,4 +282,4 @@ I'm interested in connecting with developers, designers, founders, teams, and pe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0891b2,50:1e3a8a,100:0f172a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&color=0:0891b2,50:1e3a8a,100:0f172a" width="100%"/>
