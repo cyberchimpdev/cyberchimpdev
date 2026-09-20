@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=ASIM%20PUN%20MAGAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:0891b2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=ASIM%20PUN%20MAGAR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,50:1e3a8a,100:0891b2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;React+%2B+Python+%2B+Django;Building+Practical+Digital+Products" />
 
 <br>
 
 <a href="https://asimpunmagar.com.np">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/asimmagar20/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/cyberchimpdev">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -30,7 +30,7 @@ React • Python • Django • REST APIs • AI/ML • UI/UX
 
 I'm **Asim Pun Magar**, a developer focused on building practical web applications and intelligent software products.
 
-I work across **frontend development, backend systems, AI/ML applications and product-focused UI/UX**.
+My work spans **frontend development, backend systems, AI/ML applications and product-focused UI/UX**.
 
 ---
 
@@ -51,23 +51,13 @@ I work across **frontend development, backend systems, AI/ML applications and pr
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img src="./profile/overview.svg" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cyberchimpdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" width="48%"/>
 
-<br>
-
-<img src="./profile/contribution-history.svg" width="98%"/>
-
-<br>
-
-<img src="./profile/activity-rhythm.svg" width="98%"/>
-
-<br>
-
-<img src="./profile/language-treemap.svg" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberchimpdev&layout=compact&langs_count=8&hide_border=true&theme=transparent" width="40%"/>
 
 </div>
 
@@ -84,7 +74,7 @@ I work across **frontend development, backend systems, AI/ML applications and pr
 
 AI-powered landslide risk monitoring and response system.
 
-**Python · AI/ML · Geospatial · SQLite**
+`Python` `AI/ML` `Geospatial` `SQLite`
 
 <a href="https://github.com/cyberchimpdev/PahiroWatch">
 <img src="https://img.shields.io/badge/View%20Project-18181B?style=flat-square&logo=github&logoColor=white"/>
@@ -98,7 +88,7 @@ AI-powered landslide risk monitoring and response system.
 
 Renewable-aware AI compute optimization and workload planning.
 
-**TypeScript · Python · Scikit-learn**
+`TypeScript` `Python` `Scikit-learn`
 
 <a href="https://github.com/cyberchimpdev/HydroCompute-Nepal">
 <img src="https://img.shields.io/badge/View%20Project-18181B?style=flat-square&logo=github&logoColor=white"/>
@@ -116,7 +106,7 @@ Renewable-aware AI compute optimization and workload planning.
 
 Full-stack hotel management platform with booking and administration workflows.
 
-**React · Tailwind · Django · DRF · MySQL**
+`React` `Tailwind` `Django` `DRF` `MySQL`
 
 <a href="https://github.com/cyberchimpdev/SmartyStay">
 <img src="https://img.shields.io/badge/View%20Project-18181B?style=flat-square&logo=github&logoColor=white"/>
@@ -130,7 +120,7 @@ Full-stack hotel management platform with booking and administration workflows.
 
 AI-powered startup validation and business insight platform.
 
-**React · Tailwind · Django · DRF · Gemini**
+`React` `Tailwind` `Django` `DRF` `Gemini`
 
 <a href="https://github.com/cyberchimpdev/Nexora">
 <img src="https://img.shields.io/badge/View%20Project-18181B?style=flat-square&logo=github&logoColor=white"/>
@@ -148,7 +138,7 @@ AI-powered startup validation and business insight platform.
 
 AI-powered learning-gap detection and personalized recovery platform.
 
-**React · Tailwind · Django · DRF · Gemini**
+`React` `Tailwind` `Django` `DRF` `Gemini`
 
 <a href="https://github.com/cyberchimpdev/NexaLearn">
 <img src="https://img.shields.io/badge/View%20Project-18181B?style=flat-square&logo=github&logoColor=white"/>
@@ -160,7 +150,7 @@ AI-powered learning-gap detection and personalized recovery platform.
 
 ### 🎯 Current Focus
 
-Building stronger **AI-powered full-stack products** with React, Python, Django and machine learning.
+Building AI-powered full-stack products with **React, Python, Django and machine learning**.
 
 </td>
 
@@ -191,4 +181,4 @@ Building stronger **AI-powered full-stack products** with React, Python, Django 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0891b2,50:1e3a8a,100:0f172a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0891b2,50:1e3a8a,100:0f172a" width="100%"/>
